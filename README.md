@@ -12,4 +12,4 @@ This project explores the **Namma Yatri dataset** using **Power BI** to uncover 
 - Revenue concentration is highest in **urban hotspots**.
 - Customer demand strongly correlates with **weekday office timings**.
 
-## 🗂️ Repository Structure
+
